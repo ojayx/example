@@ -23,4 +23,4 @@ jobs:
 
       - name: run script
         run: |
-          python language-folder/file.py
+          python ./language-folder/file.py
